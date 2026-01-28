@@ -1,6 +1,6 @@
 # SQL Injection UNION Attack: Determining the Number of Columns Returned by the Query
 
-**Written by Dnyaneshwar Yadav**
+**Written by Dnyaneshwar Yadav..**
 
 ---
 

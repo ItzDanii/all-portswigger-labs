@@ -1,6 +1,6 @@
 # Blind SQL Injection with Conditional Responses
 
-**Written by Dnyaneshwar Yadav**
+**Written by Dnyaneshwar Yadav..**
 
 ---
 

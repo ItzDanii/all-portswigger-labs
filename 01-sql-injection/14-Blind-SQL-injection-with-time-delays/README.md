@@ -1,6 +1,6 @@
 # Blind SQL Injection with Time Delays
 
-**Written by Dnyaneshwar Yadav**
+**Written by Dnyaneshwar Yadav..**
 
 ---
 

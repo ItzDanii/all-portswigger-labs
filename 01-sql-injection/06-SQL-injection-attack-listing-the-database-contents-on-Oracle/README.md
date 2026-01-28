@@ -1,6 +1,6 @@
 # SQL Injection Attack: Listing the Database Contents on Oracle
 
-**Written by Dnyaneshwar Yadav**
+**Written by Dnyaneshwar Yadav..**
 
 ---
 

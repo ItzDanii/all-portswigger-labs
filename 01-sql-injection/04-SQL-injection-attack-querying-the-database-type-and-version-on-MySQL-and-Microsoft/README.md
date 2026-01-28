@@ -1,6 +1,6 @@
 # SQL Injection Attack,Querying Database Type and Version on MySQL and Microsoft
 
-**Written by Dnyaneshwar Yadav**
+**Written by Dnyaneshwar Yadav..**
 
 ---
 

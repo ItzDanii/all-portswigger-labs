@@ -1,6 +1,6 @@
 # SQL Injection UNION Attack: Retrieving Data from Other Tables
 
-**Written by Dnyaneshwar Yadav**
+**Written by Dnyaneshwar Yadav..**
 
 ---
 

@@ -1,6 +1,6 @@
 # SQL Injection UNION Attack: Finding a Column Containing Text
 
-**Written by Dnyaneshwar Yadav**
+**Written by Dnyaneshwar Yadav..**
 
 ---
 

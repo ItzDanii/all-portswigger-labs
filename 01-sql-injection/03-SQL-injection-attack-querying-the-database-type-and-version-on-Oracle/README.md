@@ -1,6 +1,6 @@
 # SQL injection attack, querying the database type and version on Oracle
 
-**Written by Dnyaneshwar Yadav**
+**Written by Dnyaneshwar Yadav..**
 
 ---
 

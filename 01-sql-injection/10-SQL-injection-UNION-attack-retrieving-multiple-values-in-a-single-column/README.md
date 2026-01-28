@@ -1,6 +1,6 @@
 # SQL Injection UNION Attack: Retrieving Multiple Values in a Single Column
 
-**Written by Dnyaneshwar Yadav**
+**Written by Dnyaneshwar Yadav..**
 
 ---
 
