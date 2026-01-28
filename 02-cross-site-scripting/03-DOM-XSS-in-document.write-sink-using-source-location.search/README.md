@@ -1,6 +1,6 @@
 # DOM XSS in document.write Sink Using location.search
 
-**Written by Dnyaneshwar Yadav**
+**Written by Dnyaneshwar Yadav..**
 
 ---
 

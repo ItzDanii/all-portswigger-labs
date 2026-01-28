@@ -1,6 +1,6 @@
 # DOM XSS in innerHTML Sink Using location.search
 
-**Written by Dnyaneshwar Yadav**
+**Written by Dnyaneshwar Yadav..**
 
 ---
 
