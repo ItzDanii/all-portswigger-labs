@@ -1,6 +1,6 @@
 # SQL Injection with Filter Bypass via XML Encoding
 
-**Written by Dnyaneshwar Yadav**
+**Written by Dnyaneshwar Yadav..**
 
 ---
 
