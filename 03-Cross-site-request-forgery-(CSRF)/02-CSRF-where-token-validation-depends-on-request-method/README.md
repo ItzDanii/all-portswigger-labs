@@ -1,6 +1,6 @@
 # CSRF Where Token Validation Depends on Request Method
 
-**Author:** Dnyaneshwar Yadav
+**Author:** Dnyaneshwar Yadav.
 
 ---
 
